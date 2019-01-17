@@ -11,6 +11,10 @@ Things to quote
 
 _**Bold Italic**_
 
+~~Strike Through~~
+
+:jeans: :video_game:
+
 * Eggs
 * Bacon
 * Toast
@@ -18,5 +22,8 @@ _**Bold Italic**_
 1. Chocolate
 2. Mint
 3. Strawberry
+
+=[x]Done
+=[ ]Not Done
 
 [(https://www.comeonandsl.am/)]
