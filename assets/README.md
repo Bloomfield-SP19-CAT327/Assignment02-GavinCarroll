@@ -1,3 +1,3 @@
 This is filler text
 
-![1200px-GameCube_controller.png]
+[(https://upload.wikimedia.org/wikipedia/commons/a/a5/GameCube_controller.png)]
